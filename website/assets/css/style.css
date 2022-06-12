@@ -1,3 +1,7 @@
 body{
     background: #BDBDBD;
 }
+
+.nav-link, .navbar-brand {
+    color: white !important;
+}
